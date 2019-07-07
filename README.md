@@ -1,6 +1,4 @@
-<h1 align="center">Welcome to statistics 👋</h1>
-<p>
-</p>
+# Statistics
 
 > A repository of formula, theorems, and other information in statistics that I find in the wild.
 
